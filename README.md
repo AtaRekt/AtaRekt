@@ -10,7 +10,7 @@
 Hi, I'm Mustafa Ata, a passionate self-taught full-stack web developer from Istanbul.
 
 - 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning Rust & Golang
+- 🌱 I’m currently learning Golang
 
 **Languages and Tools:**  
 
