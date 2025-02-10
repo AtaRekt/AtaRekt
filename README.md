@@ -1,8 +1,4 @@
-### Hi there, I'm [Ata!](https://mustafaata.dev) 👋
-
-<a href="https://discord.gg/9am">
-  <img align="left" alt="MustafaAta's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+### Hi there, I'm [Ata!](https://ata.works) 👋
 
 <br />
 <br />
