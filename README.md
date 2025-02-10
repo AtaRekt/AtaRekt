@@ -1,8 +1,5 @@
 ### Hi there, I'm [Ata!](https://ata.works) 👋
 
-<br />
-<br />
-
 Hi, I'm Mustafa Ata, a passionate self-taught full-stack web developer from Istanbul.
 
 - 🔭 I’m currently working on my side project <a href="https://snapugc.com">SnapUGC</a>
